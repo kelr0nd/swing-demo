@@ -40,6 +40,6 @@ dependencies {
 }
 
 launch4j {
-  mainClassName = 'com.example.myapp.Start'
+  mainClassName = 'main.java.SwingDemo'
   icon = "${projectDir}/icons/myApp.ico"
 }
